@@ -1,2 +1,1 @@
-# JacobPrice.pw
- 
+This is my personal site.

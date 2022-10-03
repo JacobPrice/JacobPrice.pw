@@ -28,7 +28,7 @@ export default function Hero() {
       </div>
       <div className="flex flex-col justify-center mt-5 layout sm:flex-row sm:justify-between max-w-sm">
         <a
-          href="https://www.github.com/jacobprice"
+          href="https://www.linkedin.com/in/jacobaprice"
           className=" inline-flex justify-center sm:justify-self-start items-center gap-1 font-medium md:text-base text-white hover:text-teal-400 focus:outline-none focus-visible:ring focus-visible:ring-primary-300 transition-colors cursor-newtab"
         >
           <FaLinkedin />
@@ -42,7 +42,7 @@ export default function Hero() {
           jacobprice
         </a>
         <a
-          href="https://www.github.com/jacobprice"
+          href="https://twitter.com/thatpriceguy"
           className="justify-center inline-flex items-center gap-1 font-medium md:text-base text-white hover:text-teal-400 focus:outline-none focus-visible:ring focus-visible:ring-primary-300 transition-colors cursor-newtab"
         >
           <FaTwitter />

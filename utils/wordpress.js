@@ -1,5 +1,5 @@
 // API endpoint for jacobprice.pw, exposing JSON from the wordpress backend
-const BASE_URL = env.BASE_URL;
+const BASE_URL = process.env.BASE_URL;
 
 // fetch the posts from WP and return JSON
 export async function getPosts() {

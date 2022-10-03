@@ -1,6 +1,5 @@
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
-import Link from "next/Link";
 
 const options3 = {
   particles: {
